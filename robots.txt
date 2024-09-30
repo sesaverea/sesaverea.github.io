@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sesaverea.github.io/sitemap.html.gz
+Sitemap: https://sesaverea.github.io/app/sitemap.html.gz
+Sitemap: https://sesaverea.github.io/assets/sitemap.html.gz
+Sitemap: https://sesaverea.github.io/css/sitemap.html.gz
+Sitemap: https://sesaverea.github.io/data/sitemap.html.gz
+Sitemap: https://sesaverea.github.io/includes/sitemap.html.gz
+Sitemap: https://sesaverea.github.io/item/sitemap.html.gz
+Sitemap: https://sesaverea.github.io/src/sitemap.html.gz
